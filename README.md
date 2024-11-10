@@ -10,8 +10,13 @@
 - 🕸️ [Portfolio Website](https://v-pf.de)
 
 ## 📈 Statistics
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thryrallo&hide=stars&theme=react&hide_border=true)
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=thryrallo&hide=css&layout=compact&theme=react&hide_border=true&cache_seconds=1800)
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=thryrallo&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thryrallo&theme=ambient_gradient&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thryrallo&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+  </p>
+</div>
 
 <!--
 **Thryrallo/Thryrallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
